@@ -1,1 +1,1 @@
-This is a project to set up a basic homepage to test my HTML knowledge.
+Minu enda tehtud kunagine Google avalehe projekt ümber kirjutatud 6. nädala kontrolltöö tarbeks.
